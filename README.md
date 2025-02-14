@@ -1,5 +1,5 @@
-👋 Hi, I’m Alex
-👀 I’m interested in Robotics, 3D-Printing and E-Sports/Gaming
+-👋 Hi, I’m Alex
+-👀 I’m interested in Robotics, 3D-Printing and E-Sports/Gaming
 
 <!---
 MAHuschka/MAHuschka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
